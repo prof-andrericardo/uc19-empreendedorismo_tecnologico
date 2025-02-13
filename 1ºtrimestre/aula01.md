@@ -104,7 +104,7 @@ Lembre-se: **toda inovação começa com uma ideia e uma necessidade. O próximo
 - **Empreendedorismo tradicional é mais inovador do que o tecnológico.**  
 - **Startups de tecnologia podem resolver problemas da sociedade.**  
 
-   - [ ] F V V V  
+   - [ ] F V F V  
    - [ ] V F V V  
    - [ ] V F F V  
    - [ ] V F V F  
