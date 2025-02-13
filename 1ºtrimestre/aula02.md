@@ -112,7 +112,7 @@ Seja criando uma **nova startup** ou **desenvolvendo um software inovador**, as 
 - **Startups tecnológicas normalmente não enfrentam dificuldades financeiras.**  
 - **O empreendedor tecnológico precisa estar atualizado com as novas tendências do mercado.**  
 
-   - [ ] F V V V  
+   - [ ] F V F V  
    - [ ] V F V V  
    - [ ] V F F V  
    - [ ] V F V F  
