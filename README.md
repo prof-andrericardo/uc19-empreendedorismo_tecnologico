@@ -28,7 +28,8 @@
 
 ## 📑 Sumário  
 
-[### 🔥 **1º Trimestre - Capítulo 1 - Fundamentos do Empreendedorismo Tecnológico**](1ºtrimestre/README.md)
+### 🔥 **[1º Trimestre - Capítulo 1 - Fundamentos do Empreendedorismo Tecnológico]**(1ºtrimestre/README.md)
+
 📌 [1.1 O que é Empreendedorismo Tecnológico?](1ºtrimestre.md/aula01.md)  
 📌 [1.2 Perfil e Características de um Empreendedor Tecnológico](1ºtrimestre.md/aula02.md)  
 📌 [1.3 Modelos de Negócios e Ferramentas de Inovação](1ºtrimestre.md/aula03.md)  
