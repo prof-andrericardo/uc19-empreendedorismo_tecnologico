@@ -28,14 +28,15 @@
 
 ## 📑 Sumário  
 
-### 🔥 **1º Trimestre - Fundamentos do Empreendedorismo**  
-📌 [Introdução ao Empreendedorismo Tecnológico](1ºtrimestre.md)  
-📌 [Modelos de Negócios e Ferramentas de Inovação](1ºtrimestre.md#modelos-de-negócios)  
-📌 [Validação de Ideias e MVP](1ºtrimestre.md#validacao-de-ideias)  
-📌 [Cidadania Digital e Impacto Ético](1ºtrimestre.md#cidadania-digital)  
+[### 🔥 **1º Trimestre - Capítulo 1 - Fundamentos do Empreendedorismo Tecnológico**](1ºtrimestre/README.md)
+📌 [1.1 O que é Empreendedorismo Tecnológico?](1ºtrimestre.md/aula01.md)  
+📌 [1.2 Perfil e Características de um Empreendedor Tecnológico](1ºtrimestre.md/aula02.md)  
+📌 [1.3 Modelos de Negócios e Ferramentas de Inovação](1ºtrimestre.md/aula03.md)  
+📌 [1.4 Estudo de Caso: Startups de Sucesso](1ºtrimestre.md/aula04.md)  
+📌 [1.5 Exercícios e Brainstorming Criativo](1ºtrimestre.md/aula05.md)  
 
-### 💡 **2º Trimestre - Desenvolvimento de Soluções Tecnológicas**  
-📌 [Tecnologia para Solução de Problemas Sociais](2ºtrimestre.md)  
+[### 💡 **2º Trimestre - Capítulo 2: Identificação de Oportunidades de Negócio**  ](2ºtrimestre/README.md)
+📌 [2.1 Como Identificar Oportunidades?](2ºtrimestre/aula06.md)  
 📌 [Metodologias de Pesquisa e Design Thinking](2ºtrimestre.md#design-thinking)  
 📌 [Prototipagem e Implementação de Produtos](2ºtrimestre.md#prototipagem)  
 📌 [Aspectos Éticos e LGPD](2ºtrimestre.md#lgpd)  
