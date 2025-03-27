@@ -36,7 +36,7 @@
 📌 [1.4 Estudo de Caso: Startups de Sucesso](1ºtrimestre.md/aula04.md)  
 📌 [1.5 Exercícios e Brainstorming Criativo](1ºtrimestre.md/aula05.md)  
 
-[### 💡 **2º Trimestre - Capítulo 2: Identificação de Oportunidades de Negócio**  ](2ºtrimestre/README.md)
+### 💡 [**2º Trimestre - Capítulo 2: Identificação de Oportunidades de Negócio**](2ºtrimestre/README.md)
 📌 [2.1 Como Identificar Oportunidades?](2ºtrimestre/aula06.md)  
 📌 [Metodologias de Pesquisa e Design Thinking](2ºtrimestre.md#design-thinking)  
 📌 [Prototipagem e Implementação de Produtos](2ºtrimestre.md#prototipagem)  
