@@ -1,110 +1,142 @@
 # 🚀 UC19 - Empreendedorismo Tecnológico
 
-> **"Inovação é o que distingue um líder de um seguidor."** – Steve Jobs
+> 💡 _"Inovação é o que distingue um líder de um seguidor."_ — **Steve Jobs**
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/prof-andrericardo/uc19-empreendedorismo_tecnologico)
-![GitHub repo size](https://img.shields.io/github/repo-size/prof-andrericardo/uc19-empreendedorismo_tecnologico)
-![GitHub issues](https://img.shields.io/github/issues/prof-andrericardo/uc19-empreendedorismo_tecnologico)
-
-📚 **Unidade Curricular**: UC19 - Empreendedorismo Tecnológico  
-👨‍🏫 **Professor**: André Ricardo  
-🏫 **Instituição**: Colégio Victorino  
-🎓 **Curso**: Ensino Médio Técnico em Informática  
-📧 **Contato**: [andre.ricardo@colegiovictorino.com.br](mailto:andre.ricardo@colegiovictorino.com.br)  
-📖 **Carga Horária**: 80h/a  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Disciplina Ativa](https://img.shields.io/badge/status-ativo-success)](https://github.com/prof-andrericardo/uc19-empreendedorismo_tecnologico)
+[![GitHub Stars](https://img.shields.io/github/stars/prof-andrericardo/uc19-empreendedorismo_tecnologico?style=social)](https://github.com/prof-andrericardo/uc19-empreendedorismo_tecnologico)
 
 ---
 
-## 🎯 Objetivos da Disciplina  
+## 📚 Sobre a Disciplina
 
-✅ Desenvolver soluções inovadoras usando **tecnologias emergentes**  
-✅ Criar e validar **modelos de negócios escaláveis**  
-✅ Aplicar metodologias ágeis como **Lean Startup, Design Thinking e Scrum**  
-✅ Explorar o impacto da tecnologia em **problemas sociais e mercado digital**  
-✅ Aprimorar habilidades de **liderança, captação de investimentos e gestão de equipes**  
+A **UC19 – Empreendedorismo Tecnológico** tem como objetivo **formar jovens inovadores**, capazes de identificar problemas reais da sociedade e propor soluções **tecnológicas, viáveis e sustentáveis**, utilizando **metodologias ativas**, **modelos de negócio**, e **ferramentas de inovação**.
 
----
-
-## 📑 Sumário  
-
-### 🔥 [**1º Trimestre - Capítulo 1 - Fundamentos do Empreendedorismo Tecnológico**](1ºtrimestre/README.md)
-
-📌 [1.1 O que é Empreendedorismo Tecnológico?](1ºtrimestre.md/aula01.md)  
-📌 [1.2 Perfil e Características de um Empreendedor Tecnológico](1ºtrimestre.md/aula02.md)  
-📌 [1.3 Modelos de Negócios e Ferramentas de Inovação](1ºtrimestre.md/aula03.md)  
-📌 [1.4 Estudo de Caso: Startups de Sucesso](1ºtrimestre.md/aula04.md)  
-📌 [1.5 Exercícios e Brainstorming Criativo](1ºtrimestre.md/aula05.md)  
-
-### 💡 [**2º Trimestre - Capítulo 2: Identificação de Oportunidades de Negócio**](2ºtrimestre/README.md)
-📌 [2.1 Como Identificar Oportunidades?](2ºtrimestre/aula06.md)  
-📌 [Metodologias de Pesquisa e Design Thinking](2ºtrimestre.md#design-thinking)  
-📌 [Prototipagem e Implementação de Produtos](2ºtrimestre.md#prototipagem)  
-📌 [Aspectos Éticos e LGPD](2ºtrimestre.md#lgpd)  
-
-### 🚀 **3º Trimestre - Startups e Escalabilidade**  
-📌 [Financiamento e Captação de Investimentos](3ºtrimestre.md)  
-📌 [Liderança e Gestão de Equipes](3ºtrimestre.md#gestao)  
-📌 [Pitch para Investidores](3ºtrimestre.md#pitch)  
-📌 [Estudo de Casos Reais de Startups](3ºtrimestre.md#casos-de-sucesso)  
+📘 **Curso:** Ensino Médio Técnico em Informática  
+👨‍🏫 **Professor:** André Ricardo da Silva  
+🏫 **Instituição:** Colégio Victorino  
+🕐 **Carga Horária:** 80 horas/aula  
+📩 **Contato:** andre.ricardo@colegiovictorino.com.br
 
 ---
 
-## 📚 Conteúdo Programático  
+## 🧭 Objetivos da Disciplina
 
-🔹 **1º Trimestre - Empreendedorismo e Modelos de Negócio**  
-   - O que é empreendedorismo tecnológico?  
-   - Canvas, Design Thinking e inovação estratégica  
-   - Validação de ideias e construção de MVP  
-   - Ética, fake news e impacto social  
-
-🔹 **2º Trimestre - Desenvolvimento de Soluções Tecnológicas**  
-   - Aplicação de tecnologias para resolver problemas sociais  
-   - Métodos de pesquisa e levantamento de dados  
-   - Prototipagem e refinamento de produtos inovadores  
-   - Privacidade, LGPD e responsabilidade digital  
-
-🔹 **3º Trimestre - Escalabilidade e Startups**  
-   - Como captar investidores para um negócio digital  
-   - Técnicas de liderança e gestão de equipes  
-   - Estratégias para apresentação de pitch  
-   - Estudos de caso de startups bem-sucedidas e suas lições  
+- Desenvolver **soluções inovadoras** utilizando tecnologias emergentes;
+- Compreender os **fundamentos do empreendedorismo e inovação digital**;
+- Criar e validar **modelos de negócios escaláveis**;
+- Propor **soluções para problemas sociais locais e globais**;
+- Utilizar ferramentas como **Canvas**, **Design Thinking** e **PMI**.
 
 ---
 
-## 🔗 **Referências e Materiais Complementares**:
+## 🗂️ Estrutura do Repositório
 
-- [Empreendedorismo SEBRAE](http://www.sebrae.com.br/sites/PortalSebrae/bis/o-que-e-ser-empreendedor,ad17080a3e107410VgnVCM1000003b74010aRCRD)
-- [Design Thinking](http://www.sebrae.com.br/sites/PortalSebrae/artigos/entenda-o-design-thinking,369d9cb730905410VgnVCM1000003b74010aRCRD)
-- [Canvas Online](https://app.projectcanvas.online/#/start)
-
------
-
-## 💻 Como Contribuir  
-
-1. Faça um **fork** do repositório 📂  
-2. Crie uma **branch** para suas contribuições ✍️  
-3. Faça **commits** explicativos 🔍  
-4. Envie um **pull request** 🚀  
-
-Qualquer melhoria no material ou sugestão é bem-vinda! 🌎  
+```bash
+uc19-empreendedorismo_tecnologico/
+├── README.md                 # Apresentação geral da disciplina
+├── LICENSE                   # Licença MIT
+├── .gitignore                # Regras de exclusão do Git
+├── 1ºtrimestre/              # Fundamentos do Empreendedorismo
+├── 2ºtrimestre/              # Soluções Tecnológicas para Problemas Sociais
+├── 3ºtrimestre/              # Ética Digital e Impacto da Inovação
+```
 
 ---
 
-## 🏛️ Licença  
+## 🧠 Trilha de Aprendizagem
 
-Este repositório está sob a licença **MIT**, permitindo uso e distribuição livre. Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.  
+### 📘 **1º Trimestre: Fundamentos do Empreendedorismo**
 
----
+- 1.1 O que é Empreendedorismo Tecnológico
+- 1.2 Perfil de um Empreendedor Inovador
+- 1.3 Modelos de Negócios e Ferramentas
+- 1.4 Estudo de Caso de Startups de Sucesso
+- 1.5 Brainstorming e Prototipagem Inicial
 
-## 📣 Contato  
-
-📧 **Dúvidas ou sugestões?** Entre em contato!  
-📩 [andre.ricardo@colegiovictorino.com.br](mailto:andre.ricardo@colegiovictorino.com.br)  
-
-🔗 **Acompanhe e contribua no GitHub**  
-[![GitHub](https://img.shields.io/github/followers/prof-andrericardo?style=social)](https://github.com/prof-andrericardo)  
+📍 **Resultado Esperado:** Primeira proposta de solução inovadora com base em problemas reais.
 
 ---
 
-🚀 **Transforme ideias em startups! Vamos inovar juntos!** 💡
+### 🌍 **2º Trimestre: Soluções para Problemas Reais**
+
+- Identificação de problemas sociais locais
+- Aplicação de Design Thinking e Canvas
+- Criação de MVPs e validação com usuários reais
+
+📍 **Resultado Esperado:** Protótipo funcional ou plano estruturado com Canvas + Pitch
+
+---
+
+### 📊 **3º Trimestre: Ética, Impacto e Ação**
+
+- Cidadania Digital e Fake News
+- Direito Digital e LGPD
+- Impacto de soluções tecnológicas na sociedade
+- Apresentação Final do Projeto
+
+📍 **Resultado Esperado:** Apresentação de um projeto de impacto real
+
+---
+
+## 🔧 Ferramentas e Plataformas Utilizadas
+
+| Ferramenta                                                                                                                                        | Finalidade                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [Canvas Online](https://app.projectcanvas.online/#/start)                                                                                         | Estruturação visual do modelo de negócios  |
+| [Design Thinking Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/artigos/entenda-o-design-thinking,369d9cb730905410VgnVCM1000003b74010aRCRD) | Metodologia de ideação centrada no usuário |
+| [Google Classroom](https://classroom.google.com)                                                                                                  | Organização das atividades e interações    |
+
+---
+
+## 📝 Avaliações e Atividades
+
+- 📖 **Atividades Contínuas:** Brainstormings, estudos de caso, Canvas, relatórios
+- 🧠 **Avaliação Trimestral:** Questões teóricas e práticas com base nas aulas
+- 🎯 **Desafio Final:** Apresentação de uma proposta real de negócio ou projeto social tecnológico
+
+🧪 **Modelo de Prova:** Ver `Avaliação Trimestral - EM.docx`
+
+---
+
+## 🤝 Como Contribuir (para alunos e educadores)
+
+1. 🔄 Faça fork do repositório
+2. 📝 Crie conteúdos complementares (slides, vídeos, estudos de caso)
+3. 📥 Envie um Pull Request com melhorias ou adições
+4. 💬 Utilize a aba [Issues](https://github.com/prof-andrericardo/uc19-empreendedorismo_tecnologico/issues) para sugestões
+
+---
+
+## 🔒 Licença
+
+Este repositório está licenciado sob a Licença MIT.  
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+---
+
+## 🚀 Inicie Agora
+
+> O próximo grande projeto de inovação pode sair da sua mente — tudo começa com uma ideia bem estruturada e uma equipe engajada.
+
+✅ Explore os conteúdos por trimestre  
+✅ Participe dos desafios em sala  
+✅ Construa uma solução com impacto real
+
+---
+
+## 🔗 Navegação Rápida
+
+- 📂 [1º Trimestre](./1ºtrimestre)
+- 📂 [2º Trimestre](./2ºtrimestre)
+- 📂 [3º Trimestre](./3ºtrimestre)
+- 📝 [Modelo de Questões](./Modelo_de_Questoes_Atualizado.md)
+- 🧪 [Avaliação Trimestral](./Avaliação%20Trimestral%20-%20EM.docx)
+
+---
+
+## 👨‍🏫 Desenvolvido por
+
+**Prof. André Ricardo da Silva**  
+📧 andre.ricardo@colegiovictorino.com.br  
+🏫 Colégio Victorino | Ensino Médio Técnico em Informática
