@@ -46,7 +46,7 @@ uc19-empreendedorismo_tecnologico/
 
 ## 🧠 Trilha de Aprendizagem
 
-### 📘 **1º Trimestre: Fundamentos do Empreendedorismo**
+## 📘 **1º Trimestre: Fundamentos do Empreendedorismo**
 
 - 1.1 O que é Empreendedorismo Tecnológico
 - 1.2 Perfil de um Empreendedor Inovador
@@ -58,13 +58,37 @@ uc19-empreendedorismo_tecnologico/
 
 ---
 
-### 🌍 **2º Trimestre: Soluções para Problemas Reais**
+## 🌍 **2º Trimestre: Soluções para Problemas Reais**
 
-- Identificação de problemas sociais locais
-- Aplicação de Design Thinking e Canvas
-- Criação de MVPs e validação com usuários reais
+### 🟢 Capítulo 1 – Introdução aos Problemas Sociais e Cidadania Digital
 
-📍 **Resultado Esperado:** Protótipo funcional ou plano estruturado com Canvas + Pitch
+- [Aula 01: O que são problemas sociais locais e como identificá-los](<2ºtrimestre/Aula 01: O que são problemas sociais locais e como identificá-los.md>)
+- [Aula 02: Tecnologias como instrumento de transformação social](<2ºtrimestre/Aula 02: Tecnologias como instrumento de transformação social.md>)
+
+### 🧠 Capítulo 2 – Pesquisa de Campo e Coleta de Dados
+
+- [Aula 03: Métodos para observar, entrevistar e mapear problemas reais](<2ºtrimestre/Aula 03: Métodos para observar, entrevistar e mapear problemas reais.md>)
+- [Aula 04: Técnicas de análise de problemas e levantamento de causas](<2ºtrimestre/Aula 04: Técnicas de análise de problemas e levantamento de causas.md>)
+
+### 🛠️ Capítulo 3 – Design Thinking na Prática
+
+- [Aula 05: Etapas do Design Thinking com foco em Empatia e Definição](<2ºtrimestre/Aula 05: Etapas do Design Thinking com foco em Empatia e Definição.md>)
+- [Aula 06: Etapas de Ideação, Prototipagem e Testes](<2ºtrimestre/Aula 06: Etapas de Ideação, Prototipagem e Testes.md>)
+
+### 🧩 Capítulo 4 – Aplicando o Business Model Canvas
+
+- [Aula 07: Introdução ao BMC e sua importância em projetos sociais](<2ºtrimestre/Aula 07: Introdução ao BMC e sua importância em projetos sociais.md>)
+- [Aula 08: Preenchendo o Canvas com base no problema estudado](<2ºtrimestre/Aula 08: Preenchendo o Canvas com base no problema estudado.md>)
+
+### 🧪 Capítulo 5 – Prototipagem com Ferramentas Acessíveis
+
+- [Aula 09: Prototipagem física (cartazes, fluxos, maquetes)](<2ºtrimestre/Aula 09: Prototipagem física (cartazes, fluxos, maquetes).md>)
+- [Aula 10: Prototipagem digital (Wireframes, Canva, Miro, Figma)](<2ºtrimestre/Aula 10: Prototipagem digital (Wireframes, Canva, Miro, Figma).md>)
+
+### 🎤 Capítulo 6 – Pitch, Apresentação e Feedback
+
+- [Aula 11: Como apresentar uma ideia de forma impactante](<2ºtrimestre/Aula 11: Como apresentar uma ideia de forma impactante.md>)
+- [Aula 12: Apresentação das ideias entre os grupos e coleta de feedbacks](<2ºtrimestre/Aula 12: Apresentação das ideias entre os grupos e coleta de feedbacks.md>)
 
 ---
 
