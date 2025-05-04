@@ -178,4 +178,4 @@ Apresentem esse material em formato livre (infográfico, planilha, relatório ou
 ---
 
 ### ⏪ [Aula Anterior – Aula 02](./capitulo-01-aula02.md)
-### ⏩ [Próxima Aula – Aula 04](./capitulo-02-aula04.md)
+### ⏩ [Próxima Aula – Aula 04](<./Aula 04: Técnicas de análise de problemas e levantamento de causas.md>)

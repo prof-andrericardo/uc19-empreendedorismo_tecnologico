@@ -151,5 +151,5 @@ Esse desafio será o ponto de partida para o **Canvas do seu projeto final.**
 
 ---
 
-### ⏪ [Aula Anterior – Aula 01](./capitulo-01-aula01.md)
+### ⏪ [Aula Anterior – Aula 01](<./Aula 01: O que são problemas sociais locais e como identificá-los.md>)
 ### ⏩ [Próxima Aula – Aula 03](./capitulo-02-aula03.md)

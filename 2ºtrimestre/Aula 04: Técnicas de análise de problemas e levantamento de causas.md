@@ -2,7 +2,7 @@
 
 ## Aula 04: Técnicas de análise de problemas e levantamento de causas
 
-> 🧠 *"Não podemos resolver problemas com o mesmo pensamento que usamos quando os criamos."* — **Albert Einstein**
+> 🧠 _"Não podemos resolver problemas com o mesmo pensamento que usamos quando os criamos."_ — **Albert Einstein**
 
 ---
 
@@ -31,9 +31,11 @@ Analisar um problema social vai além de descrevê-lo. Significa:
 ## 📊 Ferramentas para Análise de Problemas
 
 ### 🪛 1. Diagrama de Ishikawa (Espinha de Peixe)
+
 Também chamado de **Diagrama de Causa e Efeito**, ajuda a visualizar **as diversas causas que levam a um problema central**.
 
 **Categorias comuns:**
+
 - Pessoas
 - Processos
 - Ambiente
@@ -42,16 +44,19 @@ Também chamado de **Diagrama de Causa e Efeito**, ajuda a visualizar **as diver
 - Políticas Públicas
 
 ### 🧱 2. Técnica dos “5 Porquês”
+
 Metodologia simples: a cada resposta dada, pergunte “Por quê?” até chegar à **causa raiz** de um problema.
 
 **Exemplo:**
+
 1. Por que alunos não fazem atividades em casa?  
-   → Porque não têm internet.  
+   → Porque não têm internet.
 2. Por que não têm internet?  
-   → Porque não têm condições de pagar.  
-3. Por que não há acesso gratuito na região?... *(e assim por diante)*
+   → Porque não têm condições de pagar.
+3. Por que não há acesso gratuito na região?... _(e assim por diante)_
 
 ### 🧠 3. Matriz Causa-Consequência
+
 Tabela que relaciona **as possíveis causas com os efeitos diretos e indiretos do problema**.
 
 ---
@@ -95,6 +100,7 @@ Tabela que relaciona **as possíveis causas com os efeitos diretos e indiretos d
 ## 🧪 Atividade Prática da Aula
 
 Com base nos dados coletados pela sua equipe:
+
 1. Escolha **um problema** principal a ser analisado;
 2. Aplique o **Diagrama de Ishikawa** para levantar causas;
 3. Aplique os **5 Porquês** em pelo menos uma linha causal;
@@ -116,10 +122,12 @@ A partir da próxima aula, começaremos a aplicar essas análises na **estrutura
 ## 🧠 Fixação de Conteúdo
 
 ### ✅ Questões Dissertativas
+
 1. Explique a importância de identificar a causa raiz de um problema antes de propor uma solução.
 2. Compare as ferramentas “5 Porquês” e “Diagrama de Ishikawa” e aponte em que contexto cada uma é mais útil.
 
 ### 🔘 Questão de Múltipla Escolha
+
 1. O Diagrama de Ishikawa é utilizado para:
    - [ ] Levantar hipóteses de solução para o projeto
    - [ ] Listar tarefas de um cronograma
@@ -127,10 +135,11 @@ A partir da próxima aula, começaremos a aplicar essas análises na **estrutura
    - [ ] Identificar causas que contribuem para um problema central
 
 ### ✔️ Verdadeiro ou Falso
-1. A técnica dos 5 Porquês serve para descobrir a causa raiz de um problema.  
-2. É recomendado que a equipe defina a solução antes de compreender o problema.  
-3. Classificar causas por categorias ajuda a entender a complexidade do problema.  
-4. O uso de mapas mentais e quadros visuais facilita a análise coletiva.  
+
+1. A técnica dos 5 Porquês serve para descobrir a causa raiz de um problema.
+2. É recomendado que a equipe defina a solução antes de compreender o problema.
+3. Classificar causas por categorias ajuda a entender a complexidade do problema.
+4. O uso de mapas mentais e quadros visuais facilita a análise coletiva.
 
 - [ ] F F F F
 - [ ] V F V V
@@ -138,15 +147,18 @@ A partir da próxima aula, começaremos a aplicar essas análises na **estrutura
 - [ ] V V V V
 
 ### 🔗 Associação de Colunas
-| Técnica                   | Aplicação                                                    |
-| ------------------------- | ------------------------------------------------------------ |
+
+| Técnica                   | Aplicação                                                               |
+| ------------------------- | ----------------------------------------------------------------------- |
 | 5 Porquês                 | ( ) Descobrir a origem de um problema a partir de perguntas sequenciais |
-| Ishikawa                  | ( ) Visualizar as causas organizadas por categorias          |
-| Matriz Causa-Consequência | ( ) Relacionar causas e seus impactos                        |
-| Quadro de Post-its        | ( ) Organizar ideias em grupo visualmente                    |
+| Ishikawa                  | ( ) Visualizar as causas organizadas por categorias                     |
+| Matriz Causa-Consequência | ( ) Relacionar causas e seus impactos                                   |
+| Quadro de Post-its        | ( ) Organizar ideias em grupo visualmente                               |
 
 ### ☐ Caixa de Seleção
+
 Quais das ações abaixo representam boas práticas para análise de problemas sociais?
+
 - [ ] Propor solução antes de terminar a pesquisa
 - [x] Usar ferramentas visuais como mapas e quadros
 - [x] Validar a análise com pessoas da comunidade
@@ -155,7 +167,9 @@ Quais das ações abaixo representam boas práticas para análise de problemas s
 - [x] Levantar múltiplas causas para um mesmo problema
 
 ### 🚀 Desafio
+
 Escolha um problema da sua equipe:
+
 - Aplique **as 3 ferramentas de análise** (Ishikawa, 5 Porquês e Matriz);
 - Faça uma apresentação em formato visual com as descobertas;
 - Prepare-se para defender a **causa que será o foco do seu projeto** na próxima aula.
@@ -171,5 +185,6 @@ Escolha um problema da sua equipe:
 
 ---
 
-### ⏪ [Aula Anterior – Aula 03](./capitulo-02-aula03.md)
-### ⏩ [Próxima Aula – Aula 05](./capitulo-03-aula05.md)
+### ⏪ [Aula Anterior – Aula 03](<./Aula 03: Métodos para observar, entrevistar e mapear problemas reais.md>)
+
+### ⏩ [Próxima Aula – Aula 05](<./Aula 05: Etapas do Design Thinking com foco em Empatia e Definição.md>)

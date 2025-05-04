@@ -2,7 +2,7 @@
 
 ## Aula 01: O que são problemas sociais locais e como identificá-los
 
-> 💡 *"A tecnologia é apenas uma ferramenta. O importante é a mente por trás dela."* — **Bill Gates**
+> 💡 _"A tecnologia é apenas uma ferramenta. O importante é a mente por trás dela."_ — **Bill Gates**
 
 ---
 
@@ -10,7 +10,7 @@
 
 Nesta aula, vamos dar o primeiro passo para compreender o propósito central deste trimestre: **usar a tecnologia como uma ferramenta de transformação social**. Mas, antes de criar qualquer solução, precisamos **aprender a observar**. Entender o que são **problemas sociais** e **como identificá-los em nosso entorno** é uma habilidade essencial para quem deseja inovar com responsabilidade.
 
-Problemas sociais não são apenas temas de jornal. Eles estão nas ruas, nas escolas, nos aplicativos, nos transportes e nas conversas do cotidiano. Estão onde **as necessidades humanas não estão sendo plenamente atendidas**. 
+Problemas sociais não são apenas temas de jornal. Eles estão nas ruas, nas escolas, nos aplicativos, nos transportes e nas conversas do cotidiano. Estão onde **as necessidades humanas não estão sendo plenamente atendidas**.
 
 > Como futuros técnicos e profissionais da área de informática, vocês terão o conhecimento necessário para propor e até desenvolver soluções para esses desafios. Mas toda grande inovação começa com **uma boa pergunta e uma boa escuta.**
 
@@ -18,7 +18,7 @@ Problemas sociais não são apenas temas de jornal. Eles estão nas ruas, nas es
 
 ## 🧾 O que são Problemas Sociais?
 
-Problemas sociais são **situações estruturais ou recorrentes que impactam negativamente a qualidade de vida de uma coletividade**, e que exigem atenção do poder público, da iniciativa privada ou da sociedade civil. 
+Problemas sociais são **situações estruturais ou recorrentes que impactam negativamente a qualidade de vida de uma coletividade**, e que exigem atenção do poder público, da iniciativa privada ou da sociedade civil.
 
 Eles afetam direta ou indiretamente o **direito ao bem-estar, à cidadania e à dignidade** de grupos populacionais.
 
@@ -74,7 +74,8 @@ Um problema local pode ser definido como um **problema social que ocorre no cont
 Antes de pensarmos em "criar aplicativos" ou "fazer sistemas", precisamos reconhecer que **a tecnologia pode ser utilizada como instrumento de escuta, mapeamento, análise e visualização de dados sociais**.
 
 Por exemplo:
-- Aplicativos de mapeamento comunitário (como o *Mapeando Meu Bairro*)
+
+- Aplicativos de mapeamento comunitário (como o _Mapeando Meu Bairro_)
 - Criação de **dashboards informativos** sobre problemas locais
 - **Plataformas de denúncia anônima** com geolocalização
 - **Banco de dados colaborativo** sobre acessibilidade urbana
@@ -111,10 +112,12 @@ Na próxima aula, exploraremos **como as tecnologias digitais podem ser aplicada
 ## 🧠 Fixação de Conteúdo
 
 ### ✅ Questões Dissertativas
+
 1. Defina com suas palavras o que é um problema social e explique por que ele deve ser analisado em seu contexto local.
 2. Descreva um problema social que você já presenciou na sua comunidade e como ele afeta diferentes grupos.
 
 ### 🔘 Questão de Múltipla Escolha
+
 1. Qual das situações abaixo representa um problema social com impacto local?
    - [ ] Um aplicativo de streaming com poucas séries nacionais
    - [ ] A alta no preço de smartphones premium
@@ -122,10 +125,11 @@ Na próxima aula, exploraremos **como as tecnologias digitais podem ser aplicada
    - [ ] A mudança de CEO de uma empresa de tecnologia
 
 ### ✔️ Verdadeiro ou Falso
-1. Problemas sociais sempre afetam apenas indivíduos isolados.  
-2. A escuta ativa e a observação são estratégias fundamentais para a identificação de problemas sociais.  
-3. Tecnologias digitais podem ser utilizadas para diagnosticar problemas sociais.  
-4. Problemas sociais não devem ser discutidos na escola técnica.  
+
+1. Problemas sociais sempre afetam apenas indivíduos isolados.
+2. A escuta ativa e a observação são estratégias fundamentais para a identificação de problemas sociais.
+3. Tecnologias digitais podem ser utilizadas para diagnosticar problemas sociais.
+4. Problemas sociais não devem ser discutidos na escola técnica.
 
 - [ ] F V F V
 - [ ] V F V V
@@ -133,6 +137,7 @@ Na próxima aula, exploraremos **como as tecnologias digitais podem ser aplicada
 - [ ] V V F V
 
 ### 🔗 Associação de Colunas
+
 | Situação                                | Problema Social           |
 | --------------------------------------- | ------------------------- |
 | Falta de intérprete de Libras na escola | ( ) Acessibilidade        |
@@ -141,7 +146,9 @@ Na próxima aula, exploraremos **como as tecnologias digitais podem ser aplicada
 | Transporte escolar inadequado           | ( ) Mobilidade e educação |
 
 ### ☐ Caixa de Seleção
+
 Quais das alternativas abaixo representam **problemas sociais locais**?
+
 - [ ] Lançamento de um novo sistema operacional
 - [ ] Falta de faixa de pedestres em frente à escola
 - [ ] Atualizações de interface em um app de comida
@@ -150,7 +157,9 @@ Quais das alternativas abaixo representam **problemas sociais locais**?
 - [ ] Criação de uma nova rede social
 
 ### 🚀 Desafio
+
 Saia pelo seu bairro (ou converse com pessoas da comunidade) e registre **dois problemas sociais locais reais**. Em seguida, anote:
+
 - Quem é afetado;
 - Quais as causas prováveis;
 - Como a tecnologia poderia ser utilizada para ajudar a resolvê-lo.
@@ -168,5 +177,6 @@ Essas anotações serão a base do seu projeto do trimestre.
 
 ---
 
-### ⏪ [Voltar ao Sumário](./README.md)
-### ⏩ [Próximo: Capítulo 1 – Aula 02: Tecnologias como instrumento de transformação social](./capitulo-01-aula02.md)
+### ⏪ [Voltar ao Sumário](<./README.md>)
+
+### ⏩ [Próximo: Capítulo 1 – Aula 02: Tecnologias como instrumento de transformação social](<./Aula 02: Tecnologias como instrumento de transformação social.md>)
