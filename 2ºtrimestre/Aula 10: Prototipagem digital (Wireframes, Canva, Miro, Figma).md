@@ -123,12 +123,12 @@ A prototipagem digital conecta a visão do projeto com a prática de desenvolvim
 
 O que pode ser considerado um bom uso da prototipagem digital?
 
-- [x] Criar links entre telas simulando botões
-- [x] Testar o fluxo com colegas antes de programar
+- [ ] Criar links entre telas simulando botões
+- [ ] Testar o fluxo com colegas antes de programar
 - [ ] Implementar todas as funcionalidades em backend
 - [ ] Criar um banco de dados relacional
-- [x] Representar a jornada do usuário com clareza visual
-- [x] Receber feedbacks de usuários sobre design e usabilidade
+- [ ] Representar a jornada do usuário com clareza visual
+- [ ] Receber feedbacks de usuários sobre design e usabilidade
 
 ### 🚀 Desafio
 

@@ -123,11 +123,11 @@ Nesta aula, vimos que a tecnologia pode ser muito mais do que um produto: pode s
 ### ☐ Caixa de Seleção
 Quais das alternativas abaixo representam **ações de tecnologia com impacto social positivo**?
 - [ ] Criar um app para compras de luxo com exclusividade
-- [x] Desenvolver uma plataforma gratuita de reforço escolar
-- [x] Criar uma rede de compartilhamento de alimentos entre vizinhos
+- [ ] Desenvolver uma plataforma gratuita de reforço escolar
+- [ ] Criar uma rede de compartilhamento de alimentos entre vizinhos
 - [ ] Automatizar um serviço de apostas online
-- [x] Criar um tradutor de voz para Libras
-- [x] Desenvolver dashboards sobre saneamento básico na cidade
+- [ ] Criar um tradutor de voz para Libras
+- [ ] Desenvolver dashboards sobre saneamento básico na cidade
 
 ### 🚀 Desafio
 Escolha **um problema social que você observou na sua comunidade** e escreva uma proposta de **como a tecnologia pode ser usada para resolvê-lo**.

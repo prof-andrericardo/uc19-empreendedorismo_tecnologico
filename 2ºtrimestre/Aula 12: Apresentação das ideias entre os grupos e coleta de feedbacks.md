@@ -115,11 +115,11 @@ Ao aprender a apresentar e ouvir com humildade, vocês não apenas se tornam mel
 
 Quais ações fazem parte de um processo de feedback bem conduzido?
 
-- [x] Ouvir atentamente o que os colegas estão apresentando
-- [x] Anotar sugestões durante a apresentação
+- [ ] Ouvir atentamente o que os colegas estão apresentando
+- [ ] Anotar sugestões durante a apresentação
 - [ ] Interromper o grupo para corrigir erros técnicos
-- [x] Escrever feedback com educação e foco em melhorias
-- [x] Levar em consideração as sugestões na melhoria do projeto
+- [ ] Escrever feedback com educação e foco em melhorias
+- [ ] Levar em consideração as sugestões na melhoria do projeto
 - [ ] Ignorar críticas por orgulho da ideia própria
 
 ### 🚀 Desafio Final

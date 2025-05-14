@@ -149,11 +149,11 @@ O pitch é mais do que falar: é **conectar-se com o público e transmitir a ess
 
 Quais boas práticas devem ser aplicadas durante um pitch?
 
-- [x] Fazer uma introdução envolvente com frase de impacto
-- [x] Dividir as falas entre os integrantes da equipe
-- [x] Mostrar com clareza o protótipo da solução
+- [ ] Fazer uma introdução envolvente com frase de impacto
+- [ ] Dividir as falas entre os integrantes da equipe
+- [ ] Mostrar com clareza o protótipo da solução
 - [ ] Focar exclusivamente no código da aplicação
-- [x] Olhar para a plateia e manter boa postura
+- [ ] Olhar para a plateia e manter boa postura
 - [ ] Usar jargões técnicos para impressionar
 
 ### 🚀 Desafio

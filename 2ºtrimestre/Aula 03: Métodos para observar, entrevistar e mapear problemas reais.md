@@ -150,11 +150,11 @@ Na próxima aula, vamos transformar os dados levantados em **problemas estrutura
 ### ☐ Caixa de Seleção
 Quais das alternativas abaixo representam **boas práticas de coleta de dados sociais**?
 - [ ] Gravar entrevistas sem permissão para ganhar tempo
-- [x] Utilizar formulário anônimo para relatos sensíveis
-- [x] Ouvir diferentes pontos de vista da comunidade
+- [ ] Utilizar formulário anônimo para relatos sensíveis
+- [ ] Ouvir diferentes pontos de vista da comunidade
 - [ ] Copiar informações prontas da internet
-- [x] Respeitar o direito de imagem e anonimato
-- [x] Criar mapas e quadros para organizar os dados
+- [ ] Respeitar o direito de imagem e anonimato
+- [ ] Criar mapas e quadros para organizar os dados
 
 ### 🚀 Desafio
 Escolha com sua equipe um **problema social identificado nas aulas anteriores**. 

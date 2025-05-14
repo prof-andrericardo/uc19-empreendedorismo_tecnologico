@@ -158,12 +158,12 @@ Ao dominar essas etapas, você eleva seu projeto de um exercício escolar para u
 
 Quais práticas pertencem à etapa de empatia no Design Thinking?
 
-- [x] Observar diretamente o usuário no contexto do problema
-- [x] Conduzir entrevistas abertas e registrar falas reais
+- [ ] Observar diretamente o usuário no contexto do problema
+- [ ] Conduzir entrevistas abertas e registrar falas reais
 - [ ] Programar a solução em HTML/CSS
 - [ ] Definir um banco de dados com MySQL
-- [x] Criar um Mapa de Empatia e uma Persona
-- [x] Refletir sobre padrões e emoções revelados na escuta
+- [ ] Criar um Mapa de Empatia e uma Persona
+- [ ] Refletir sobre padrões e emoções revelados na escuta
 
 ### 🚀 Desafio de Aplicação
 

@@ -160,11 +160,11 @@ A partir da próxima aula, começaremos a aplicar essas análises na **estrutura
 Quais das ações abaixo representam boas práticas para análise de problemas sociais?
 
 - [ ] Propor solução antes de terminar a pesquisa
-- [x] Usar ferramentas visuais como mapas e quadros
-- [x] Validar a análise com pessoas da comunidade
+- [ ] Usar ferramentas visuais como mapas e quadros
+- [ ] Validar a análise com pessoas da comunidade
 - [ ] Considerar apenas sua própria visão
-- [x] Classificar causas por temas ou setores
-- [x] Levantar múltiplas causas para um mesmo problema
+- [ ] Classificar causas por temas ou setores
+- [ ] Levantar múltiplas causas para um mesmo problema
 
 ### 🚀 Desafio
 
